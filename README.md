@@ -104,4 +104,3 @@ Ensure you have **Node.js** running on your computer.
   node -v
   npm -v
 
-  
