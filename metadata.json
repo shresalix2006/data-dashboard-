@@ -1,0 +1,6 @@
+{
+  "name": "Editorial Data Dashboard",
+  "description": "An enterprise-grade high-fidelity multi-source telemetry data dashboard supporting GitHub Pulse code analytics, real-time cryptocurrency tickers, live weather forecasts, and custom JSON/CSV dataset processing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

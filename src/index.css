@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@450;500;600;700;800;900&family=JetBrains+Mono:wght@450;550;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --color-editorial-bg: #F9F8F6;
+  --color-editorial-ink: #1A1A1A;
+  --color-editorial-accent: #0047FF;
+  --color-editorial-muted: #717171;
+  --color-editorial-border: #E5E2DE;
+
+  --font-sans: 'Helvetica Neue', Arial, 'Inter', sans-serif;
+  --font-serif: 'Georgia', 'Times New Roman', serif;
+  --font-mono: 'JetBrains Mono', ui-monospace, SFMono-Regular, monospace;
+}
+
+/* Base style resets matching Editorial theme */
+body {
+  background-color: var(--color-editorial-bg);
+  color: var(--color-editorial-ink);
+  font-family: var(--font-sans);
+}
+
+/* Subtle transitions for nice UX */
+* {
+  transition-property: background-color, border-color, text-color, fill, stroke;
+  transition-duration: 200ms;
+}
