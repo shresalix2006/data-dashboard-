@@ -6,8 +6,7 @@ An enterprise-grade, high-fidelity multi-source telemetry data dashboard built w
 
 ## 🚀 Deployment & Fast-Track Links
 
-* **Live Development URL:** [https://ais-dev-iodaotoqfo6btxvd37am66-68983139101.asia-southeast1.run.app](https://ais-dev-iodaotoqfo6btxvd37am66-68983139101.asia-southeast1.run.app)
-* **Demo & Share Link:** [https://ais-pre-iodaotoqfo6btxvd37am66-68983139101.asia-southeast1.run.app](https://ais-pre-iodaotoqfo6btxvd37am66-68983139101.asia-southeast1.run.app)
+* **Live Development URL:** [https://data-dashboard-92ig.onrender.com](https://data-dashboard-92ig.onrender.com)
 
 ---
 
@@ -45,7 +44,9 @@ This dashboard avoids standard templating and over-saturated gradients, choosing
 ## 📡 System Architecture
 
 The software operates on a unified, high-octane build framework:
-+---------------------------------------+
+                  
+                  
+                  +---------------------------------------+
                   |           VITE SPA FRONTEND           |
                   |   (React 19 / Recharts / SWR / Tailwind)|
                   +-------------------+-------------------+
